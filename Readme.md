@@ -1,6 +1,6 @@
 # Collect Assets
 
-- Based on script by @antomor.
+- Based on script by @Morozov Anton.
 - This script collects textures and other files used in the scene in one folder.
 
 # This script work with:
