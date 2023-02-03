@@ -1537,9 +1537,9 @@ rollout Collect_asset title width:416 height:592
 		headlink1.BackColor = ColorClass.FromArgb 56 56 56
 		headlink1.font = dotNetObject "System.Drawing.Font" "Tahoma" 8.25
 		headlink1.LinkBehavior  = LinkBehavior.NeverUnderline
-		headlink1.Text = "Updates     Render Farm"
-		headlink1.links.add 0 8 "http://www.scriptspot.com/3ds-max/scripts/collect-asset"
-		headlink1.links.add 10 23 "http://xiruim-farm.net"
+		--headlink1.Text = "Updates     Render Farm"
+		--headlink1.links.add 0 8 "http://www.scriptspot.com/3ds-max/scripts/collect-asset"
+		--headlink1.links.add 10 23 "http://xiruim-farm.net"
 	
 		--loading tooltips for buttons
 		loadTooltips()
