@@ -1,0 +1,1 @@
+name "Collect Asset Installer"version 2.099extract to $temp\CA_install_temprun "installCA.ms"drop "installCA.ms"
