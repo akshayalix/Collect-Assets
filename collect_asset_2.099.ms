@@ -4,7 +4,7 @@ macroScript Collect_asset_2
 	toolTip:"Collect Aasset 2"
 	Icon:#("CollectAsset",1)
 (
-	title = "Collect Asset v2.099b"
+	title = "Collect Asset v1.0"
 	--This script created by Morozov Anton
 	-- Collect all textures and others external files in one folder.
 try (destroyDialog ::Collect_asset) catch()
