@@ -12,3 +12,8 @@
 - Redshift Render
 - FStorm Render
 - Final Render
+
+# Installation :
+
+- Scripting -> Run script... and select dowloaded file. Find it in Customize -> Customize user interface -> Toolbars. Category: ModX.
+
