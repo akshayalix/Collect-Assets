@@ -18,7 +18,7 @@ else
 )
 
 fileIn "collect_asset_2.099.ms"
-messageBox "Collect Asset is now installed!\n\nTo run it goto:\n   Customize -> Customize User Interface -> Toolbars\nCategory: \"Xiruim\" and drag \"Collect Asset\" to a toolbar.\n\nClick the toolbar icon to run it!" title:"Collect Asset Installed"
+messageBox "Collect Asset is now installed!\n\nTo run it goto:\n   Customize -> Customize User Interface -> Toolbars\nCategory: \"ModX\" and drag \"Collect Asset\" to a toolbar.\n\nClick the toolbar icon to run it!" title:"Collect Asset Installed"
 colorMan.reinitIcons() -- update icons
 
 --delete old version
