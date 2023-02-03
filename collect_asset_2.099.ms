@@ -1,6 +1,6 @@
 macroScript Collect_asset_2
 	Buttontext: "Collect Asset"
-	category:"Xiruim"
+	category:"ModX"
 	toolTip:"Collect Aasset 2"
 	Icon:#("CollectAsset",1)
 (
