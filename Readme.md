@@ -15,9 +15,11 @@
 
 ## Installation :
 
+### Inside 3ds Max
+
 - Scripting -> Run script
 - Select dowloaded file 
-- `Inside 3ds Max` Find it in Customize -> Customize user interface -> Toolbars 
+- Find it in Customize -> Customize user interface -> Toolbars 
 - Inside Category: `ModX`.
 
 ## Building from source
