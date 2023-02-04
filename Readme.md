@@ -3,7 +3,7 @@
 - Based on script by @Morozov Anton.
 - This script collects textures and other files used in the scene in one folder.
 
-# This script work with:
+## This script work with:
 
 - standart materials
 - Vray Render
@@ -13,14 +13,14 @@
 - FStorm Render
 - Final Render
 
-# Installation :
+## Installation :
 
 - Scripting -> Run script
 - Select dowloaded file 
 - `Inside 3ds Max` Find it in Customize -> Customize user interface -> Toolbars 
 - Inside Category: `ModX`.
 
-# Building from source
+## Building from source
 
 If you don't want to download built plugin from mirrors above, then you can build the plugin yourself.
 
