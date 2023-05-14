@@ -1494,7 +1494,7 @@ rollout Collect_asset title width:416 height:592
 	edittext 'dir_edt' "" pos:[18,271] width:350 align:#left
 	button 'open_btn' "..." pos:[374,271] width:24 height:20 align:#left
 	edittext 'edit_subdir' "sub Directory" pos:[152,296] width:216 align:#left
-	checkbox 'chk_rlnk' "and relink to selected directory" pos:[23,323] width:170 height:15 checked:true align:#left
+	checkbox 'chk_rlnk' "and relink to selected directory" pos:[23,323] width:170 height:15 checked:false align:#left
 	checkbox 'chk_sel' "only from selected objects" pos:[23,341] width:148 height:15 align:#left
 	checkbox 'chk_maxfile' "copy .max file" pos:[23,359] width:92 height:15 align:#left
 	checkbox 'chk_exxref' "exclude xref" pos:[230,323] width:91 height:18 enabled:true checked:false align:#left
